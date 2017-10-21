@@ -1,8 +1,7 @@
 # Shadowsocks
 搭建Shadowsocks说明
 
-wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocksR.sh
-
+wget --no-check-certificate https://github.com/balabala007/Shadowsocks/blob/master/shadowsocksR.sh
 
 
 chmod +x shadowsocksR.sh
